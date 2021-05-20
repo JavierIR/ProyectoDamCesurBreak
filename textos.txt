@@ -1,0 +1,42 @@
+La fecha ha llegado y como siempre, no has estudiado. Son las 11 de la noche, en pleno toque de queda. Estás escondido en el WC del CESUR. Tu misión, colarte en la sala de profesores y conseguir el examen.
+Muévete por el centro, resuelve los puzzles y consigue tu objetivo.
+Los comandos disponibles son "Ir a", "Mirar", "Coger", "Usar", "Mapa", o "Ayuda" para volver a mostrar este texto. Además tienes "Reproducir música" y "Parar música".
+No ves nada fuera de lo común. Un lavabo, una escobilla,...
+Coges la escobilla. Cada uno tiene sus vicios, oye... aunque ahora que la tienes en la mano, ¡esta fabricada en hierro de forja! ¡Esto pesa!
+Hay un escritorio, con su teléfono y sus cosas. Un cajón cerrado de estos de cerradura cutre y un bote de Monster sin acabar.
+La puerta está entornada, pero no se abre. Parece que un estante se ha descoldado y está apoyado en la puerta,... si pudiese hacer palanca con algo...
+La puerta se abre, pero la escobilla se queda doblada y pierde su uso. (su... "uso" como palanca de puertas...). Bueno, el caso es que estás dentro.
+Lo normal en un almacén, papeles, un clip, una fotocopiadora y en un rinconcito un señor de Salamanca de la promoción del 97.
+El señor de Salamanca está muy frío y rígido... mejor no tocarlo.
+Coges el clip. Total, te habías llevado una escobilla sucia, qué más da un clip.
+Tantas películas de espías han dado su fruto, has abierto el cajón y has encontrado un manojo con las llaves de los despachos. Ale, ya has acabado el juego. Es broma, tú sigue.
+No puedes entrar en el pasillo de los despachos, está cerrado con llave.
+Abres la puerta del pasillo con tu mega manojo de llaves. Te sientes orgulloso ante tal hazaña. Sólo han sido 17 intentos con llaves distintas.
+Es la sala de profesores, hay de todo, menos profesores. Por cierto el examen parece que está ahí... no, espera, es una postal de gatitos. Si el examen no está aquí... sólo puede estar en Dirección.
+Sales al pasillo y vas al despacho de Dirección, pero como todo el mundo sabe, los despachos de dirección tienen una cadena que impide el paso y pues eso... no puedes pasar (a lo Gandalf). ¿Cómo podría cortarla?
+No puedes coger la cadena... pero si pudieses cortarla...
+Es el aula de jardinería (por qué hay un aula de jardinería????). Ves abono, tierra, una cizalla modelo 7000 ultra para cortar cadenas y a Chema intentando cultivar algo en la oscuridad.
+No puedes coger el corta cadenas, sería muy fácil el juego.
+Mejor no te acerques a Chema, no sabes qué está cultivando y puede dar miedito.
+Chema está cultivando algo raro. Brilla en la oscuridad... y lo que está cultivando también. Mejor no acercarse.
+Coges el abono y.... espera... entre el abono 100% natural de vaca gallega encuentras una tarjeta de máquina expendedora. Te la llevas.
+Llegas al aula de odontología. Ves cosas dignas de una peli de terror. Tienen incluso una máquina expendedora que te vende dentaduras y herramientas de dentista (aggghhh).
+Una dentadura, un palito de estos de rascar dientes con punta, otro con espejo, una dremel multi... tiene de todo.
+Utilizas la tarjeta y sin darte tiempo a pulsar un botón, te cae la dremel. Vivan los dispositivos inteligentes! A dirección a romper la cadena!
+Utilizas la dremel en la cadena y la cortas. Si el profe de odontología te viese, estaría suuuuper orgulloso de tí. Entras en el despacho de dirección.
+Buscas entre los montones de papeles. Foto de los niños, foto de Maluma, examen de acupuntura... aquí está!! El examen da DAM!!! Le echas una foto con el móvil y te... ohh mierda. No tienes batería. ¿Dónde podría encontrar un cable para cargarlo?
+Llegas al aula de informática. Ves lo normal, 2 pentium II, un 386 con una pegatina de "I love Salamanca", un cable,...
+Para qué quieres un cable?? No... espera... eres muy joven para.... tú sigue jugando!!!
+Coges un cable USB y lo conectas en el único PC que tiene USB y no está capado, el de Alejandro. Qué maravilla. Una hora después tienes el móvil cargado.
+Ahora sí puedes hacerle una foto al examen y salir por patas. Enhorabuena!! Mañana apruebas!!... o no...
+¿Por qué ibas a hacer eso?
+No puedes entrar ahí... aún.
+No entiendo dónde quieres ir. Recuerda que puedes ver el mapa escribiendo "mapa" (sin comillas).
+No ves ese objeto a tu alrededor o no puedes cogerlo.
+Eso ya lo habías cogido antes, ansia vivaaaaa!
+No ves nada que no hayas visto ya antes
+Comando no reconocido
+Prueba a añadir algo al Ir a, por ejemplo Ir a recepción
+Así que has descubierto el comando secreto (Muajaja - Risas chungas). En el WC coge la escobilla, ve al almacén, ahora podrás abrirlo. Coge el clip y ve a recepción para obtener las llaves. Con ellas ve a la sala de profesores, después a Odontología, Jardinería a por la tarjeta (en el estiercol), Odontología a por la dremel, Dicección, Informática a coger el cable y dirección de nuevo.
+Usar... qué?? Prueba con Usar y el nombre del objeto (Usar clip)
+O no lo tienes... o no se puede usar aquí
